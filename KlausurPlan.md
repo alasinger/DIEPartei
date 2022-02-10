@@ -15,70 +15,40 @@ Libro:
 * Flipchart, Kartonkartal
 
 ## Einkaufsplan Sopron
-
 * 20-30 Semmeln
-
 * Brot
-
 * 4x-5x Toastbrot
-
 * Milchbrötchen
-
 * Kaffee
-
 * 1x Marmelade
-
 * 1x Haselnussaufstrich
-
 * 1x Mandel/Hafermilch
-
 * 1x vegane Butter
-
 * 1x Hummus
-
 * Backpapier (Unterkunft checken)
-
 * a Packung Taschentücher (100er packerl)
-
 * Schnittkäse
-
 * Soletti/Chips/Snips/Nüsse
-
 * Obst
-
 * Gemüse (Gurken, Paprika, Karotten) (für Snacken und Pizzabrötchen!)
-
 * Müsliriegel
-
 * Schokolade
-
 * Kuchen
-
 * veganer frischkäse
-
 * veganer Käse
-
 * 2 Sauerrahm
-
 * ~600-750g geriebener Käse (gerne mischen)
-
 * Ketchup
-
 * 1,2kg Kidneybohnen
-
 * 600g Mais
-
 * 1,2kg Tomatenstücke
-
 * Tomatenmark
-
 * Paprikapulver
-
 * Oregano
 
   
-
-* 6 Paletten (Soprony Demon)
+Drinks
+* 6 Paletten Bier(Soprony Demon)
 * Wien
 * dazu passend Mineral + was extra
 * Säfte
@@ -107,8 +77,6 @@ Check-In:
   * Zimmer 3:
   * Zimmer 4:
 * Bezahlt 
-
-
 
 
 
