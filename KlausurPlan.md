@@ -26,7 +26,7 @@ Libro:
 * 1x vegane Butter
 * 1x Hummus
 * Backpapier (Unterkunft checken)
-* a Packung Taschentücher (100er packerl)
+* a Packung Taschentücher (100er packerl) oder Küchenrolle
 * Schnittkäse
 * Soletti/Chips/Snips/Nüsse
 * Obst
@@ -59,13 +59,9 @@ Drinks
 * Whiskey
 * Jägermeister/Rossbacher 
 
-
-
 ## ToDos: Sopron
 
 TODO: Kochen, Zeitplan aufschreiben, Plakate vorschreiben.
-
-
 
 Check-In:
 
@@ -88,16 +84,12 @@ Check-In:
 * Welche Klausurthemen erwarte ich mir?
 * Was sonst auf kein Plakat passt.
 
-
-
 ### Zeitplan
 
 * Kochen/Einkaufen
 * Daily Business
 * Food
 * World Cafe
-
-
 
 # Samstag, 12.02.
 
